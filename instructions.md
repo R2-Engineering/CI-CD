@@ -49,7 +49,7 @@ If the container exits, check your Dockerfile for a 'CMD' or 'ENTRYPOINT' defini
 
 Make sure files and folders are referenced correctly.
 
-### Step 3: Deploy your container with Kubernetes
+### Step 2: Deploy your container with Kubernetes
 ![alt text](image-2.png)
 1. Start your local cluster using Minikube or kind.
 
